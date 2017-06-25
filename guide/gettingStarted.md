@@ -28,7 +28,7 @@ Make sure you are running the release version of Swift 3.0.1. Perfect will not c
 
 You can find out which version of Swift you will need by looking in [the README of the main Perfect repo](https://github.com/PerfectlySoft/Perfect#compatibility-with-swift).
 
-### OS X
+### macOS
 
 Everything you need is already installed.
 
